@@ -1,11 +1,15 @@
-pandas
-numpy
-matplotlib
-seaborn
-plotly
-scikit-learn
-statsmodels
-prophet
-tensorflow
-streamlit
-pmdarima
+numpy==1.24.4
+pandas==1.5.3
+matplotlib==3.7.1
+scikit-learn==1.2.2
+statsmodels==0.13.5
+seaborn==0.12.2
+jupyter==1.0.0
+xgboost==1.7.6
+lightgbm==3.3.5
+tensorflow==2.11.0
+keras==2.11.0
+streamlit==1.23.1  # If you're deploying with Streamlit
+prophet==1.1.2
+plotly==5.14.1
+tensorflow==2.11.0 
