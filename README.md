@@ -43,11 +43,13 @@ This project aims to provide a comprehensive tool for analyzing and forecasting 
    cd stock-forecast-dashboard
    
 2. **Install dependencies:**
-   
-pip install -r requirements.txt
+
+   ```bash
+   pip install -r requirements.txt
 
 3. **Run the Streamlit app:**
    
-streamlit run app.py
+   ```bash
+   streamlit run app.py
 
 
