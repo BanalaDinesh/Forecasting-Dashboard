@@ -39,7 +39,7 @@ This project aims to provide a comprehensive tool for analyzing and forecasting 
 1. **Clone the repo:**
 
    ```bash
-   git clone https://github.com/your-username/stock-forecast-dashboard.git
+   git clone https://github.com/BanalaDinesh/Forecasting-Dashboard.git
    cd stock-forecast-dashboard
    
 2. **Install dependencies:**
